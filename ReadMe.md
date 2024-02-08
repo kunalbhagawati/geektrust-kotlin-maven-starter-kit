@@ -1,3 +1,8 @@
+## Starter kit to write kotlin solutions for https://www.geektrust.com/ problems.  
+Since geektrust doesn't have an official starter kit for kotlin, I made this till they do add one. Built on the existing Java starter kit, using Maven to maintain parity.
+
+---
+
 # Pre-requisites
 * Java 1.8/1.11/1.15
 * Maven
